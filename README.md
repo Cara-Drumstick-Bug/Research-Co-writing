@@ -12,12 +12,12 @@
 
 ![alt](/img/maxresdefault.jpg)
 
-[React vs Angular vs Vue.js (2018)]<https://estidevelopers.com/2018/10/02/react-vs-angular-vs-vue-js-a-complete-comparison-guide-it-recruitment-amsterdam/>
+[React vs Angular vs Vue.js (2018)](https://estidevelopers.com/2018/10/02/react-vs-angular-vs-vue-js-a-complete-comparison-guide-it-recruitment-amsterdam/)
 
-[AG]<https://github.com/angular>
+[AG 2021 星星 76.8k](https://github.com/angular)
 
-[React]<https://github.com/facebook>
+[React 2021 星星 176k](https://github.com/facebook)
 
-[Vue]<https://github.com/vuejs>
+[Vue 2021 星星 189k](https://github.com/vuejs)
 
-[AG 基礎]<https://medium.com/@rogercodes1/intro-to-angular-and-how-to-setup-your-first-angular-app-b36c9c3ab6ca>
+[AG 基礎](https://medium.com/@rogercodes1/intro-to-angular-and-how-to-setup-your-first-angular-app-b36c9c3ab6ca)
