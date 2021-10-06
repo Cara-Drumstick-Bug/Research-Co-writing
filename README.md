@@ -12,14 +12,12 @@
 
 ![alt](/img/maxresdefault.jpg)
 
-<https://www.google.com/search?q=VUE&sxsrf=ALeKk01SPglZeS7oZmxk9iUbGw_C8uLJ_g:1604147722473&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjn5qj5697sAhVywosBHXfxDpYQ_AUoAXoECA0QAw&biw=1920&bih=936#imgrc=JO8srkSRBqxLfM&imgdii=SE4kgLayq9hwpM>
+[React vs Angular vs Vue.js (2018)]<https://estidevelopers.com/2018/10/02/react-vs-angular-vs-vue-js-a-complete-comparison-guide-it-recruitment-amsterdam/>
 
-<https://estidevelopers.com/2018/10/02/react-vs-angular-vs-vue-js-a-complete-comparison-guide-it-recruitment-amsterdam/>
+[AG]<https://github.com/angular>
 
-<https://github.com/angular>
+[React]<https://github.com/facebook>
 
-<https://github.com/facebook>
+[Vue]<https://github.com/vuejs>
 
-<https://github.com/vuejs>
-
-<https://medium.com/@rogercodes1/intro-to-angular-and-how-to-setup-your-first-angular-app-b36c9c3ab6ca>
+[AG 基礎]<https://medium.com/@rogercodes1/intro-to-angular-and-how-to-setup-your-first-angular-app-b36c9c3ab6ca>
