@@ -1,23 +1,44 @@
-# F2E-Experience
+# 共筆操作方式
 
-## AJAX-API-Cascade
+## 開新檔
 
-<https://github.com/johch3n611u/Side-Project-Try-Swagger-RESTfulAPI>
+1. ctrl+e 查想寫的內容的關鍵字，是否已經有共筆。
+2. 如果有就先查看一下內容，看大綱是否沒有想共筆的內容，如果沒有就共筆，有的話就去看有沒有少筆記。
 
-## Framework-Analysis
+## 建議編寫格式為 ( 盡量或看到沒有就幫忙補 )
 
-![alt](/img/1_aXsjvVZlzNbqI9bg18-90Q.png)
+1. 內容: 大綱 -> 內文
+2. 檔名: 文章討論主題_起始日期.md
 
-![alt](/img/1_LG1Fc0hWlx2KzQ3SxtuFJQ.png)
+## 更新推檔
 
-![alt](/img/maxresdefault.jpg)
+1. 每次 push 前先 pull 修改衝突後再 push。
+2. 修改衝突的 commit 最好別打亂碼，方便辨識修改了什麼。
 
-[React vs Angular vs Vue.js (2018)](https://estidevelopers.com/2018/10/02/react-vs-angular-vs-vue-js-a-complete-comparison-guide-it-recruitment-amsterdam/)
+---
 
-[AG 2021 星星 76.8k](https://github.com/angular)
+## Hellow Github Page for 劉愷 練習靜態頁面使用
 
-[React 2021 星星 176k](https://github.com/facebook)
+### Learn
 
-[Vue 2021 星星 189k](https://github.com/vuejs)
+<https://gitbook.tw/chapters/github/using-github-pages.html>
 
-[AG 基礎](https://medium.com/@rogercodes1/intro-to-angular-and-how-to-setup-your-first-angular-app-b36c9c3ab6ca)
+### Github Project
+
+<https://github.com/Big-Cold-Milk/Big-Cold-Milk.github.io>
+
+### Github Page
+
+<https://big-cold-milk.github.io>
+
+### hexschool-notes
+
+<https://rpg.hexschool.com/task/72/show>
+
+如果 keyword 線上查相關文章都看懂了，也實作了，更進階可以進到六角的程式勇者村相關作業底下，
+
+會有許多範例檔跟回饋，最後有想要加強的再買線上課程就好。目前評估跟直接買線上課程要花的時間差不多。
+
+---
+
+![IMG](https://github.com/Big-Cold-Milk/Big-Cold-Milk.github.io/blob/master/main.png?raw=true)
