@@ -1,5 +1,13 @@
 # 共筆操作方式
 
+## clone 專案至本地
+
+ctrl + p
+
+&gt;git:clone
+
+github Clone with URL
+
 ## 開新檔
 
 1. ctrl+e 查想寫的內容的關鍵字，是否已經有共筆。
