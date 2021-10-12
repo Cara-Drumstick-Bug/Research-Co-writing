@@ -6,11 +6,11 @@
 
 ## Framework-Analysis
 
-![alt](/img/1_aXsjvVZlzNbqI9bg18-90Q.png)
+![alt](https://github.com/Cara-Drumstick-Bug/Research-Co-writing/blob/master/Research-F2E/img/1_aXsjvVZlzNbqI9bg18-90Q.png)
 
-![alt](/img/1_LG1Fc0hWlx2KzQ3SxtuFJQ.png)
+![alt](https://github.com/Cara-Drumstick-Bug/Research-Co-writing/blob/master/Research-F2E/img/1_LG1Fc0hWlx2KzQ3SxtuFJQ.png)
 
-![alt](/img/maxresdefault.jpg)
+![alt](https://github.com/Cara-Drumstick-Bug/Research-Co-writing/blob/master/Research-F2E/img/maxresdefault.jpg)
 
 [React vs Angular vs Vue.js (2018)](https://estidevelopers.com/2018/10/02/react-vs-angular-vs-vue-js-a-complete-comparison-guide-it-recruitment-amsterdam/)
 
