@@ -7,3 +7,4 @@
 5. `hexo new <模板> <文章標題>` 如果沒有 <模板> 指令會以 _config.yml 內 default_layout 去 scaffolds 找
 6. [官方文檔](https://hexo.io/zh-tw/docs/) 開源文檔相對於其他感覺有點兩光
 7. [Mike Dane Tutorial](https://www.youtube.com/watch?v=Kt7u5kr_P5o&list=PLLAZ4kZ9dFpOMJR6D25ishrSedvsguVSm&ab_channel=MikeDane)
+8. [從0開始themes](https://github.com/lizehongss/hexo-theme-zhl)
