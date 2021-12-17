@@ -12,6 +12,11 @@
 
 <https://www.youtube.com/watch?v=tfzJ6cW3JSM&list=UUr7GjHXlkad7hMcXMc-R3ag&index=103&ab_channel=BigBoyCanCode>
 
+飛輪行銷
+
+<https://www.google.com/search?q=%E9%A3%9B%E8%BC%AA+flywheel+%E7%94%A2%E5%93%81&rlz=1C1CHBF_zh-TWTW905TW905&sxsrf=AOaemvKdVeVy_zxCDJ6-O3eDv1HI74Ry-A%3A1635306062446&ei=Tsp4YfbAGtremAX6jKegDA&ved=0ahUKEwj2n83n1enzAhVaL6YKHXrGCcQQ4dUDCA4&uact=5&oq=%E9%A3%9B%E8%BC%AA+flywheel+%E7%94%A2%E5%93%81&gs_lcp=Cgdnd3Mtd2l6EAMyBQghEKABOgcIABCwAxAeOgQIABAeOgUIABDNAkoFCDoSATFKBAhBGAFQxB9Y3Sxg8i9oAXAAeACAAYQBiAGlBpIBAzQuNJgBAKABAcgBAcABAQ&sclient=gws-wiz>
+
+
 ## 參考
 
 * <https://daotw.com/%E5%B8%82%E5%A0%B4%E5%88%86%E6%9E%90/>
