@@ -17,3 +17,5 @@ packge scan 資安掃描 Nuget Package => whitesource bolt
 https://www.ithome.com.tw/news/127525
 
 github flow 感覺比 git flow 簡單 ?
+
+Azure DevOps Boards 可以關聯 Git 分支，感覺也是蠻好用的，但就要全綁在 Azure
