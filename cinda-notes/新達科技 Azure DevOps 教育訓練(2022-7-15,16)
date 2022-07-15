@@ -50,6 +50,6 @@ CI Pipeline 產出的東西應該是高品質安全可靠的 Artifact Increment
 
 PR CI => 審核但不 trigger => marge 到 master 主線分支策略
 
-程式碼品質 =>  靜態掃描工具，Azure
+程式碼品質 => SonarCloud 靜態掃描工具，Azure 也有整合
 
 https://i.imgur.com/4NFu9fA.png
