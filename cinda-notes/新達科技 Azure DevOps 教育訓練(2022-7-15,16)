@@ -52,4 +52,6 @@ PR CI => 審核但不 trigger => marge 到 master 主線分支策略
 
 程式碼品質 => SonarCloud 靜態掃描工具，Azure 也有整合
 
-https://i.imgur.com/4NFu9fA.png
+![image](https://i.imgur.com/4NFu9fA.png)
+
+https://ithelp.ithome.com.tw/articles/10214333
