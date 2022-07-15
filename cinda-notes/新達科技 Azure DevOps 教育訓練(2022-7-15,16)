@@ -21,3 +21,5 @@ github flow 感覺比 git flow 簡單 ?
 Azure DevOps Boards 可以關聯 Git 分支，感覺也是蠻好用的，但就要全綁在 Azure
 
 接著 Repo Pull Request ，可以讓主管去卡控 marge 可以間接 Code Review，也可自動
+
+分支越少越好且要越早解決衝突越好，所以 Github flow 相較會更好
