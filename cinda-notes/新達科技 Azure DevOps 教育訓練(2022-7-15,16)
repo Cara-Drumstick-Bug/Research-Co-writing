@@ -26,9 +26,11 @@ Azure DevOps Boards 可以關聯 Git 分支，感覺也是蠻好用的，但就�
 
 Artifact => build 後的結果
 
-環境差異 Dev Test Staging Production 四份程式碼，可以透過 Feature toggles ? ... UI 權限隱藏 = = ... ????
+環境差異 Dev (開發團隊) Test (For QA) Staging (準測試機) Production (正式) 四份程式碼，
 
-喔喔 所以 DI 的功用就出現了 !!!
+可以透過 Feature toggles ? UI 權限隱藏 = = ... 
+
+喔喔，所以 DI 的功用就出現了 !!!
 
 或 app configration ? app setting = = Azure 版本的 Online Config ...
 
