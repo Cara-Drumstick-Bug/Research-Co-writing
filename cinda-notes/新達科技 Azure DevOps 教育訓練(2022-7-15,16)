@@ -47,3 +47,5 @@ https://zh.wikipedia.org/zh-tw/%E7%BB%93%E5%AF%B9%E7%BC%96%E7%A8%8B
 TBD => 只有 Master 靠 CI 錯誤不布板不怕程式碼死掉
 
 CI Pipeline 產出的東西應該是高品質安全可靠的 Artifact Increment
+
+PR CI => 審核完才 marge 到 master
