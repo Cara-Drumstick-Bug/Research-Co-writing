@@ -74,6 +74,12 @@ Mend Bolt ( 付費 )
 
 題外話 di 主要是增加擴充性
 
+dependency hell
 
+nuget、npm、docker image etc...
 
+### semantic versioning
 
+major . minor . patch
+
+相容破壞性 . 功能調整但向下相容 . hotfix
