@@ -106,4 +106,6 @@ Azure => CICD DevOps 自動化工具 / 資源提供 Iaas Paas Saas
 
 ---
 
-Release CD 
+以上都在 CI 持續性整合 ( pipeline 也可 CD 但通常要靠 Release 會比較好 pipeline 做持續部屬工作 )
+
+Release CD 接著換持續部署
