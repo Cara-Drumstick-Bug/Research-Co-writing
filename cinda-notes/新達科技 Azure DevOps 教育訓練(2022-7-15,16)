@@ -112,4 +112,10 @@ Release CD 接著換持續部署
 
 簽核是破壞自動化的東西，跟品質無關較多是商業考量
 
-release gates
+利用 release gates 自動每隔多少分鐘檢查某些條件 ex sonarcloud 程式碼品質 A 才能上板
+
+query work item => azure 整合了整個部版品質管控這一方面，可能看板上要都沒 issue 才能自動上版到 prod
+
+---
+
+藍綠部署
