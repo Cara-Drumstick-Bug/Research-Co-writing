@@ -90,6 +90,10 @@ ex. log4j
 
 ### azure artifacts 套件管理 ... 媽的葉配
 
+NET CORE 建置套件很簡單 => 屬性 => 建置套件 打勾 BUILD 會得到 .NUPKG
 
+https://www.nuget.org
+
+兩三個專案需要相依時就可以做成套件
 
 
