@@ -80,7 +80,7 @@ dependency hell
 
 nuget、npm、docker image etc...
 
-### semantic versioning
+### semantic versioning ( 套件只能增加版號，不能更改程式 )
 
 major . minor . patch
 
