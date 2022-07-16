@@ -1,3 +1,5 @@
+## 20220715
+
 https://hackmd.io/J3YASQSATSGPpk38qpm3jw
 
 很像敏捷接案的方式
@@ -55,3 +57,23 @@ PR CI => 審核但不 trigger => marge 到 master 主線分支策略
 ![image](https://i.imgur.com/4NFu9fA.png)
 
 https://ithelp.ithome.com.tw/articles/10214333
+
+## 20220716
+
+套件 => 安全性、版權、版本 zero-day vulnerability、過期、相依性
+
+WiteSourceBolt ( 付費 )
+  
+Mend Bolt ( 付費 )
+
+---
+
+專案相依、dll 檔案包過去需求專案，都盡量不要用，
+
+改為依賴套件 ? 才會有版本之類的，但感覺侷限於超大專案或者真的一堆東西可以共用
+
+題外話 di 主要是增加擴充性
+
+
+
+
